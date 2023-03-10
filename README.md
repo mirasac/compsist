@@ -13,4 +13,4 @@ This repository exists just as an effective way to save the code while the exerc
 Files and exercises used in each lesson are contained in folders named with the day of the relative lesson in [ISO format](https://en.wikipedia.org/wiki/ISO_8601#Dates) for calendar dates, with dashes.
 
 ## Setup
-I do exercises on Google Colab.
+I do exercises on Google Colab, but I have not defined a proper workflow yet.

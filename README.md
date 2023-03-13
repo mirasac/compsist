@@ -1,6 +1,6 @@
 # compsist
 ## Introduction
-Repository for notebooks and code of the course of [Complexity in social systems](https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1), taken during the first semester of the academic year 2022-2023 for the master's degree in Physics of Complex Systems at UniTo.
+Repository for notebooks and code of the course of [Complexity in social systems](https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1), taken during the second semester of the academic year 2022-2023 for the master's degree in Physics of Complex Systems at UniTo.
 
 The regular teachers of this course are Professor Giovanni Petri and Professor Maxime Lucas. Slides are stored on the Moodle site of the course and notebooks and information are present on [the course site](https://lordgrilo.github.io/complexity-book/intro.html).
 
